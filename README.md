@@ -1,7 +1,7 @@
 # ASK ME what you want!!!
 
 # NeuralNetwork Curses:
-Neural Network What I wanted to show
+Neural Network What I wanted to show <p>
 (Linkedin): https://www.linkedin.com/in/andrasnagycon/
 <p></p>
 (facebook): https://www.facebook.com/a.andras.nagy
