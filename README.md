@@ -1,6 +1,11 @@
-# NeuralNetwork Curses:
+# ASK ME what you want!!!
 
+# NeuralNetwork Curses:
 Neural Network What I wanted to show
+(Linkedin): https://www.linkedin.com/in/andrasnagycon/
+<p></p>
+(facebook): https://www.facebook.com/a.andras.nagy
+
 
 ## Oxford:
 ### For step by step introduction (Nando can be really funny, but sometimes also deep)
