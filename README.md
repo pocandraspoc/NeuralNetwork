@@ -7,7 +7,8 @@ Neural Network What I wanted to show <p>
  <p></p>
 (Linkedin): https://www.linkedin.com/in/andrasnagycon/
 
-
+<p> Devops :
+<p>https://github.com/pocandraspoc/devops
 
 ## Oxford:
 ### For step by step introduction (Nando can be really funny, but sometimes also deep)
