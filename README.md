@@ -2,9 +2,11 @@
 
 # NeuralNetwork Curses:
 Neural Network What I wanted to show <p>
-(Linkedin): https://www.linkedin.com/in/andrasnagycon/
-<p></p>
+  <p></p>
 (facebook): https://www.facebook.com/a.andras.nagy
+ <p></p>
+(Linkedin): https://www.linkedin.com/in/andrasnagycon/
+
 
 
 ## Oxford:
